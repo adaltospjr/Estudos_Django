@@ -1,2 +1,2 @@
 # Estudos_Django
-Repositório com o objetivo de armazenar alterações do primeiro projeto Django completo. Esse projeto faz parte do primeiro curso Django da Alura.
+Este repositório foi criado com o objetivo de armazenar alterações do projeto de estudo do framework Django.
